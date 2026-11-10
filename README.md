@@ -1,7 +1,7 @@
 # FUTURE_DS_01 - Business Sales Performance Analytics
 
-**Future Interns - Data Science & Analytics, Task 1** | Prepared by Shiva
-
+**Future Interns - Data Science & Analytics, Task 1** | Prepared by Shivaprasad
+**Live - https://futureds01-kxk2xcpptxwlnbpackifio.streamlit.app/
 ## Business problem
 A superstore wants to know which products, categories and regions drive revenue and profit, and where it should focus to grow faster. This project cleans the sales data, builds a 3-page dashboard, and turns the findings into recommendations.
 
